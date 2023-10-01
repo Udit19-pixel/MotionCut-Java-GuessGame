@@ -6,3 +6,9 @@ to the number guessed by the user and then displays whether the guessed number i
 Some hints are shownn as to whether the user is close to guessing the or not.
 ## Screenshots
 [Screenshots of the code](https://github.com/Udit19-pixel/MotionCut-Java-GuessGame/tree/main/Guess%20the%20number/Screenshots)
+## Demo Video
+[Demo video of the code](https://github.com/Udit19-pixel/MotionCut-Java-GuessGame/blob/main/Guess%20the%20number/Guess%20the%20number.mp4)
+## Utilities
+* Java
+* Swing
+* Visual Studio code
